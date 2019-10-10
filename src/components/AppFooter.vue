@@ -29,9 +29,9 @@ export default {
   },
   data() {
     return {
-      codepen: null,
-      github: null,
-      twitter: null
+      codepen: 'devboye',
+      github: 'boyeoffice',
+      twitter: 'dev_boye'
     };
   }
 };
